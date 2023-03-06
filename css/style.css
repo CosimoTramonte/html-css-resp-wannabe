@@ -162,4 +162,18 @@ img {
     .row{
         flex-wrap: wrap;
     }
+
+    .why-us{
+        background-color: #222;
+    }
+
+    .steps,
+    .why-us{
+        margin-bottom: 0%;
+    }
+
+    .why-us{
+        padding: 3rem 0;
+    }
+
 }
